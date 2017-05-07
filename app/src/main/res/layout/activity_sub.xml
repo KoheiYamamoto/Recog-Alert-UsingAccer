@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Measuring"
+        android:id="@+id/textView1"
+        android:layout_marginTop="57dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stand"
+        android:id="@+id/checkBoxStand"
+        android:checked="false"
+        android:nestedScrollingEnabled="false"
+        android:onClick="OnClickStand"
+        android:layout_above="@+id/frameLayout"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Walk"
+        android:id="@+id/checkBoxWalk"
+        android:checked="false"
+        android:onClick="OnClickWalk"
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/buttonDone" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Run"
+        android:id="@+id/checkBoxRun"
+        android:checked="false"
+        android:onClick="OnClickRun"
+        android:layout_alignTop="@+id/checkBoxStand"
+        android:layout_alignStart="@+id/buttonStop" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:id="@+id/buttonStop"
+        android:onClick="OnClickStop"
+        android:layout_marginTop="44dp"
+        android:layout_below="@+id/textView1"
+        android:layout_toStartOf="@+id/checkBoxStand" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:id="@+id/buttonDone"
+        android:onClick="OnClickDone"
+        android:layout_alignTop="@+id/buttonStop"
+        android:layout_toEndOf="@+id/checkBoxStand" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/checkBoxWalk"
+        android:layout_alignParentStart="true"
+        android:id="@+id/frameLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Initializing"
+            android:id="@+id/textviewSub"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+</RelativeLayout>

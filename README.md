@@ -7,4 +7,4 @@ The app requires training(mining) session to learn user's characteristics of mot
 
 After that, in test session, the app will classify user's motion into 3 status, then after detecting walking and running status for a while, alert dialogue is popped up.
 
-This app uses weka: data mining to learn and classify user's status'
+This app uses weka: data mining to learn and to classify user's status'

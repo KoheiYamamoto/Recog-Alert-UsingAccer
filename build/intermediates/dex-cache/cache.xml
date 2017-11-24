@@ -3,66 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_9c17b44954c266321612093561bb02c0071ec4f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_f3dee2732f960dbe49b526140160899de30de778.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_cadb9286f1b113f89b720d4efc72a760c855a3e4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_e2b447eb294d5389e887c5ec55fef54e6a47ea54.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_44de6b84bd0790b0f9df65cd67832ad28b7a02a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/libs/wekaSTRIPPED.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/wekaSTRIPPED_a1a02d273855a50953eed12cf124d96c625d7978.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/Users/Mocchan/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_3e70b0f4530aed4e6b446bdbc52dcceae27a3661.jar" />
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_98983d56ac6d178f050832765f0ce9b8c1dffa2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_4ccb9d0a3ef100adb592eee4d6ef9627f4fc91ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_979862e5b8172f99167dee62b58599870da4452b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_a64af8cc7c517b5467b1015c01f26166465a6d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_6b0a20b8b95b0d0219f7b087602f70ba142096e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_a4835df27e8f180d032c69f26e6a7093dd63119a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/libs/wekaSTRIPPED.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="/Users/moi/Google Drive/Android/Recog-Alert-UsingAccer/app/build/intermediates/pre-dexed/debug/wekaSTRIPPED_9a47f31f3d5ef4e8ebcff338cf6786841b75d478.jar" />
     </item>
 
 </items>

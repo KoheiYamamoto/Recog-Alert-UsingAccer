@@ -1,10 +1,5 @@
 # Recog-Alert-UsingAccer
-The app will detect and alert user's usage of smartphone while walking or running using data mining
+Android-based smartphone app classifies users' characteristic movements and triggers alerts when detecting the usage of smartphone while their walking or running.
 
-The flow was shown below,
-
-The app requires training(mining) session to learn user's characteristics of motion: standing, walking, and running first.
-
-After that, in test session, the app will classify user's motion into 3 status, then after detecting walking and running status for a while, alert dialogue is popped up.
-
-This app uses weka: data mining to learn and to classify user's status'
+After the training session is done on the below statuses, the app will alert the usage of smartphone while users' walking or running by popping up a dialogue.
+Status: standing, walking, and running. The app uses weka for this purpose.
